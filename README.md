@@ -1,7 +1,7 @@
 # Mitológica
 ![Logo do Mitológica.](https://github.com/LegoMito/Mitol-gica/blob/main/mitologica.png)\
 O Mitológica é uma linguagem de programação criada para suprir as necessidades de nossa equipe.
-Feita em Python (Rodando nos Hubs Pybricks), ela é ótima para ambos usuários iniciantes e inexperientes.
+Feita em Python (Rodando nos Hubs Pybricks), ela é ótima para ambos usuários iniciantes e experientes.
 ## Aspectos
 - Similaridade com os blocos de palavra
 - Fácil de aprender
