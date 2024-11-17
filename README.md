@@ -8,4 +8,4 @@ Feita em Python (Rodando nos Hubs Pybricks), ela é perfeita para ambos usuário
 - Suporte a classes
 - Suporte a plugins feitos em Python
 
-O Mitológica ainda está em desenvolvimento, *porém já é eficaz no desenvolvimento de programas simples*, e vai ficar melhor ainda conforme o tempo.
+O Mitológica **ainda está em desenvolvimento**, *porém já é eficaz no desenvolvimento de programas simples*, e vai ficar melhor ainda conforme o tempo.
