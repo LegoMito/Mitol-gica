@@ -9,4 +9,4 @@ Feita em Python (Rodando nos Hubs Pybricks), ela é ótima para ambos usuários 
 - Suporte a plugins feitos em Python
 - Multitasking Cooperativo de forma nativa
 
-O Mitológica **ainda está em desenvolvimento**, *porém já é eficaz no desenvolvimento de programas para a FLL*, e vai ficar melhor ainda conforme o tempo.n
+O Mitológica **ainda está em desenvolvimento**, *porém já é eficaz no desenvolvimento de programas para a FLL*, e vai ficar melhor ainda conforme o tempo.
